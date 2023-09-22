@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-
+##cambioooooooooooo
 '''''''''
 Script to train and validate a Decision Tree strategy to classify and predict tumor outcome
 Telemedicina y análisis de datos
